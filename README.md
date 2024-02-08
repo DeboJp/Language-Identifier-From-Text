@@ -20,15 +20,15 @@ Ensure you have Python 3.x installed on your system. Place your text files (e.tx
 
 Clone this repository:
 
-git clone https://github.com/DeboJp/Language-Identifier-From-Text.git
+  `git clone https://github.com/DeboJp/Language-Identifier-From-Text.git`
 
 Navigate to the repository folder:
 
-cd Language-Identifier-From-Text
+  `cd Language-Identifier-From-Text`
 
 Run the script with the name of the text file you want to analyze:
 
-python LanguageIdentifier.py letter0.txt
+  `python LanguageIdentifier.py letter0.txt`
 
 ## How It Works
 
